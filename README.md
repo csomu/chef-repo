@@ -1,6 +1,6 @@
 The chef-repo
 ===============
-Hello This is some test I'm adding for GIT exp and just adding some tips for Kavitha
+Hello This is some test I'm adding for GIT exp and just adding some tip.
 
 All installations require a central workspace known as the chef-repo. This is a place where primitive objects--cookbooks, roles, environments, data bags, and chef-repo configuration files--are stored and managed.
 
